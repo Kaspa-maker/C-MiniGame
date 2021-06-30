@@ -1,0 +1,8 @@
+﻿  CA3gameC++.cpp
+C:\Users\Kaspa\source\repos\CA3gameC++\CA3gameC++\CA3gameC++.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+C:\Users\Kaspa\source\repos\CA3gameC++\CA3gameC++\Game.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+  player.cpp
+C:\Users\Kaspa\source\repos\CA3gameC++\CA3gameC++\player.cpp(7,2): warning C4552: '!': result of expression not used
+  Generating Code...
+  CA3gameC++.vcxproj -> C:\Users\Kaspa\source\repos\CA3gameC++\Debug\CA3gameC++.exe
